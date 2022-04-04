@@ -34,7 +34,7 @@ export default function Principal({ navigation }) {
           <View style={estilos.imagemArea}>
             <Image
               source={{
-                uri: "https://avatars.githubusercontent.com/u/54721131?v=4",
+                uri: "https://github.com/abruno36/EscolaWeb/blob/master/.images/Bruno.jpg",
               }}
               style={estilos.imagem}
             />
